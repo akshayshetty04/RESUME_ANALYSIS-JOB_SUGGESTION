@@ -1,0 +1,8 @@
+{
+    "Akshay": {
+        "password": "scrypt:32768:8:1$DDltW38IhzLLvqoE$3b82ffdd128070c52860277960175a97de12f2d89f49843d6c3492e1193b665f2eaf09835620ccaef7a0503a98ab5e6072dda7d90ea0bd5f727f5bdda3989325"
+    },
+    "Rag": {
+        "password": "scrypt:32768:8:1$LkhsxOAKOfnDmBpY$d9cd276bc347c694c8a510ec24f058bf824a673daa0905ba95204a86c18c84baa0451c80d41b2f5a58c9306accf8d380359d8c6f6afd3e949e15eace0f8e6fef"
+    }
+}
