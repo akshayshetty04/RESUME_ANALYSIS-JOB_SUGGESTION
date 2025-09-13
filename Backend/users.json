@@ -4,5 +4,14 @@
     },
     "Rag": {
         "password": "scrypt:32768:8:1$LkhsxOAKOfnDmBpY$d9cd276bc347c694c8a510ec24f058bf824a673daa0905ba95204a86c18c84baa0451c80d41b2f5a58c9306accf8d380359d8c6f6afd3e949e15eace0f8e6fef"
+    },
+    "ak": {
+        "password": "scrypt:32768:8:1$fJHYuf3kbYcM7l74$c0b36b291ec27d4de2e45c216931e544579a521955fc9d1ca605a466fcb0df8efee3a37fbf055440f896feeb8169062cc9520ed86ebf40994657a0e2124a8f94"
+    },
+    "Amogh": {
+        "password": "scrypt:32768:8:1$pvoCfCFu6uwaz4lV$fa91dc050e59b3b6e05b12ca3f35f99181f7128312649aac645118ed52d3ed2447adee39cf9baec6f1c9648a560c2e4f365f15081de18b6f4bc7758e71752677"
+    },
+    "adi": {
+        "password": "scrypt:32768:8:1$0VUmuSyCY7DX1B5E$c62cf15890bf723ab6a90676f2485cbcf84278a487406ef4cdbef3055c01b70b347d639ddb63d935677a92f0de7ad7ec7142627c6e730481e40fbdfd44a58826"
     }
 }
